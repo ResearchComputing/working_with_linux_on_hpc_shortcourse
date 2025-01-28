@@ -1,4 +1,3 @@
-# working_with_linux_primer
 Getting started on a high-performance computing cluster, such as Alpine, can be a daunting task for the uninitiated. Join us in this RC Short Course* where we will cover the Linux basics!
 
 We will cover the fundamentals of Linux and bash scripting. Topics will include Linux commands, navigation of a Linux filesystem, the Linux environment, the creation of bash scripts, and more! You can expect to leave this training with a solid understanding of basic Linux principles and commands.
