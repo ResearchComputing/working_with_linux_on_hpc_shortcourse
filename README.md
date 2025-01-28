@@ -5,4 +5,4 @@ We will cover the fundamentals of Linux and bash scripting. Topics will include 
 
 In order to follow along with the hands-on component of this workshop, you’ll want to have a Research Computing Account. If you need assistance with this, please attend CRDDS consult hours in advance of the session.
 
-* What is an RC Short Course?: An RC Short Course is a training that provides an in-depth understanding of a concept, system, or tool. You can expect to leave a "Short Course" with a solid grasp of the topic.
+ * What is an RC Short Course?: An RC Short Course is a training that provides an in-depth understanding of a concept, system, or tool. You can expect to leave a "Short Course" with a solid grasp of the topic.
